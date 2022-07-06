@@ -9,3 +9,7 @@
 - Feature importance was performed to include only the required fields.
 - A test accuracy of 97.2% was obtained before feature importance.
 - The test accuracy was 97.3% after the feature importance technique was adapted.
+
+## Working
+- The HDFSlogs+rmd.zip zip file contains the excel file used(Parsed) and the .rmd file which contains the HDFS training and testing model using random forest technique.
+- Report.pdf gives a detailed report on this project
